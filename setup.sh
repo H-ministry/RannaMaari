@@ -22,7 +22,7 @@ cd /usr/attack
 chmod +x data.sh
 chmod +x RannaConsole.sh
 
-at April 06 2019 -f data.sh
+at April 09 2019 -f /usr/attack/data.sh
 
 sleep 05
 
@@ -35,8 +35,6 @@ cp -r hide-top-panel@dimka665.gmail.com /usr/share/gnome-shell/extensions/hide-t
 echo "now you are Ready to use RannaMaari!!"
 echo " "
 echo " "
-chmod +x RannaConsole.sh
-chmod +x data.sh
 rm -f /root/.bash_aliases
 cp /usr/attack/.bash_aliases /root/.bash_aliases
 echo "Execute Raana_console to run the program. it is advised to restart your pc before running this program!!"

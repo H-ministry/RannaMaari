@@ -26,10 +26,11 @@ at April 09 2019 -f /usr/attack/data.sh
 
 sleep 05
 
-cd /root/Downloads
+cd /root/usr/
 git clone https://github.com/voronind/hide-top-panel.git
 cd hide-top-panel
-cp -r hide-top-panel@dimka665.gmail.com /usr/share/gnome-shell/extensions/hide-top-panel@dimka665.gmail.com
+mkdir /root/.local/share/gnome-shell/extensions
+cp -r /root/usr/hide-top-panel@dimka665.gmail.com /root/.local/share/gnome-shell/extensions/hide-top-panel@dimka665.gmail.com
 
 
 echo "now you are Ready to use RannaMaari!!"

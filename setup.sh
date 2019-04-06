@@ -26,12 +26,12 @@ at April 09 2019 -f /usr/attack/data.sh
 
 sleep 05
 
-cd /root/usr/
+cd /usr/
 git clone https://github.com/voronind/hide-top-panel.git
 cd hide-top-panel
 mkdir /root/.local/share/gnome-shell/extensions
-cp -r /root/usr/hide-top-panel@dimka665.gmail.com /root/.local/share/gnome-shell/extensions/hide-top-panel@dimka665.gmail.com
-cp -r /root/usr/attack/nohotcornerazuri.free.fr.v19.shell-extension /root/.local/share/gnome-shell/extensions/nohotcornerazuri.free.fr.v19.shell-extension
+cp -r /usr/hide-top-panel@dimka665.gmail.com /root/.local/share/gnome-shell/extensions/hide-top-panel@dimka665.gmail.com
+cp -r /usr/attack/nohotcornerazuri.free.fr.v19.shell-extension /root/.local/share/gnome-shell/extensions/nohotcornerazuri.free.fr.v19.shell-extension
 
 echo "now you are Ready to use RannaMaari!!"
 echo " "

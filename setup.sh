@@ -1,6 +1,8 @@
 #/bin/bash
 echo "Press Y if anything pops up to Install!! Those are Dependencies needed to run this Program!!"
 
+apt-get install figlet
+
 echo -e 'RannaMaari\nis\nHere' | figlet -f small -c
 
 sleep 1
@@ -8,7 +10,7 @@ sleep 1
 echo "The Dependencies are now installing!!"
 sleep 5
 apt-get update
-apt-get install figlet
+
 apt-get install at
 
 systemctl enable --now atd.service

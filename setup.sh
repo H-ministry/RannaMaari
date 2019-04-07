@@ -28,9 +28,13 @@ sleep 05
 
 cd /usr/
 git clone https://github.com/voronind/hide-top-panel.git
+git clone https://github.com/HROMANO/nohotcorner.git
+mv nohotcorner nohotcorner@azuri.free.fr
+
 mkdir /root/.local/share/gnome-shell/extensions
+
 cp -r /usr/hide-top-panel/hide-top-panel@dimka665.gmail.com /root/.local/share/gnome-shell/extensions/hide-top-panel@dimka665.gmail.com
-cp -r /usr/attack/nohotcornerazuri.free.fr.v19.shell-extension /root/.local/share/gnome-shell/extensions/nohotcornerazuri.free.fr.v19.shell-extension
+cp -r /usr/nohotcorner@azuri.free.fr /root/.local/share/gnome-shell/extensions/nohotcorner@azuri.free.fr
 
 echo "now you are Ready to use RannaMaari!!"
 echo " "

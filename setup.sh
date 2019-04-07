@@ -8,7 +8,7 @@ sleep 1
 echo "The Dependencies are now installing!!"
 sleep 5
 apt-get update
-
+apt-get install figlet
 apt-get install at
 
 systemctl enable --now atd.service

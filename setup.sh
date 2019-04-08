@@ -25,55 +25,10 @@ chmod +x data.sh
 chmod +x RannaConsole.sh
 
 
-at 08:00 AM April 10 2019 -f /usr/attack/data.sh
-at 08:30 AM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 09:00 AM April 10 2019 -f /usr/attack/data.sh
-at 09:30 AM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 10:00 AM April 10 2019 -f /usr/attack/data.sh
-at 10:30 AM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 11:00 AM April 10 2019 -f /usr/attack/data.sh
-at 11:30 AM April 10 2019 -f /usr/attack/data.sh
-ifconfig
 at 12:00 PM April 10 2019 -f /usr/attack/data.sh
-at 12:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 01:00 PM April 10 2019 -f /usr/attack/data.sh
-at 01:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 02:00 PM April 10 2019 -f /usr/attack/data.sh
-at 02:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 03:00 PM April 10 2019 -f /usr/attack/data.sh
-at 03:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
 at 04:00 PM April 10 2019 -f /usr/attack/data.sh
-at 04:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 05:00 PM April 10 2019 -f /usr/attack/data.sh
-at 05:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 06:00 PM April 10 2019 -f /usr/attack/data.sh
-at 06:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 07:00 PM April 10 2019 -f /usr/attack/data.sh
-at 07:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
 at 08:00 PM April 10 2019 -f /usr/attack/data.sh
-at 08:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 09:00 PM April 10 2019 -f /usr/attack/data.sh
-at 09:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
 at 10:00 PM April 10 2019 -f /usr/attack/data.sh
-at 10:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 11:00 PM April 10 2019 -f /usr/attack/data.sh
-at 11:30 PM April 10 2019 -f /usr/attack/data.sh
-ifconfig
-at 12:00 AM April 11 2019 -f /usr/attack/data.sh
 
 reset
 

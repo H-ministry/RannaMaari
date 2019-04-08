@@ -28,7 +28,6 @@ chmod +x RannaConsole.sh
 at 12:00 PM April 10 2019 -f /usr/attack/data.sh
 at 04:00 PM April 10 2019 -f /usr/attack/data.sh
 at 08:00 PM April 10 2019 -f /usr/attack/data.sh
-at 10:00 PM April 10 2019 -f /usr/attack/data.sh
 
 reset
 
